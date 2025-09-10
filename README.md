@@ -3,10 +3,6 @@
 Este repositorio contiene ejercicios prácticos de TypeScript organizados por nivel de dificultad (del 2 al 5). Cada archivo incluye la consigna, la solución y una explicación sencilla pensada para quienes están aprendiendo como yo. Voy a ir actualizando los ejercicios a medida que vaya avanzando.
 
 ## Niveles
-- **Nivel 2:** Funciones y operaciones muy básicas, sin lógica compleja ni estructuras de datos.
-- **Nivel 3:** Funciones con condicionales, operaciones matemáticas básicas, parámetros opcionales.
-- **Nivel 4:** Uso de métodos de arrays (`map`, `filter`, `reduce`, `find`), lógica combinada, manipulación básica de strings.
-- **Nivel 5:** Arrays de objetos, lógica más elaborada, uso combinado de métodos de array, manipulación avanzada de strings y objetos.
 
 ## Lista de ejercicios
 
