@@ -1,6 +1,5 @@
 # Ejercicios de TypeScript
 
-
 Este repositorio contiene ejercicios prácticos de TypeScript organizados por nivel de dificultad (del 2 al 5). Cada archivo incluye la consigna, la solución y una explicación sencilla pensada para quienes están aprendiendo como yo. Voy a ir actualizando los ejercicios a medida que vaya avanzando.
 
 ## Niveles
