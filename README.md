@@ -4,7 +4,7 @@ Este repositorio contiene ejercicios prácticos de TypeScript organizados por ni
 
 ## Niveles
 
-## Lista de ejercicios (Se irá actualizando)
+## Lista de ejercicios (Se irá actualizando a medida que realice ejercicios)
 
 | Archivo         | Nivel | Descripción breve                                 |
 |-----------------|-------|--------------------------------------------------|
