@@ -7,39 +7,39 @@ Este repositorio contiene ejercicios prácticos de TypeScript organizados por ni
 ## Niveles
 ## Índice por temas
 
-**Fundamentos / Sintaxis básica:** 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+**Fundamentos / Sintaxis básica:** [1](ejercicios/ejercicio01.ts), [2](ejercicios/ejercicio02.ts), [3](ejercicios/ejercicio03.ts), [4](ejercicios/ejercicio04.ts), [5](ejercicios/ejercicio05.ts), [6](ejercicios/ejercicio06.ts), [7](ejercicios/ejercicio07.ts), [8](ejercicios/ejercicio08.ts), [9](ejercicios/ejercicio09.ts), [10](ejercicios/ejercicio10.ts)
 
-**Operaciones numéricas y lógicas:** 4, 5, 10, 16, 17, 20, 25, 28, 31, 40
+**Operaciones numéricas y lógicas:** [4](ejercicios/ejercicio04.ts), [5](ejercicios/ejercicio05.ts), [10](ejercicios/ejercicio10.ts), [16](ejercicios/ejercicio16.ts), [17](ejercicios/ejercicio17.ts), [20](ejercicios/ejercicio20.ts), [25](ejercicios/ejercicio25.ts), [28](ejercicios/ejercicio28.ts), [31](ejercicios/ejercicio31.ts), [40](ejercicios/ejercicio40.ts)
 
-**Strings / Texto:** 3, 12, 13, 24, 27, 39, 42, 49
+**Strings / Texto:** [3](ejercicios/ejercicio03.ts), [12](ejercicios/ejercicio12.ts), [13](ejercicios/ejercicio13.ts), [24](ejercicios/ejercicio24.ts), [27](ejercicios/ejercicio27.ts), [39](ejercicios/ejercicio39.ts), [42](ejercicios/ejercicio42.ts), [49](ejercicios/ejercicio49.ts)
 
-**Arrays y colecciones (básico):** 11, 14, 15, 18, 19, 22, 23, 26, 28, 29, 30, 31, 32, 33
+**Arrays y colecciones (básico):** [11](ejercicios/ejercicio11.ts), [14](ejercicios/ejercicio14.ts), [15](ejercicios/ejercicio15.ts), [18](ejercicios/ejercicio18.ts), [19](ejercicios/ejercicio19.ts), [22](ejercicios/ejercicio22.ts), [23](ejercicios/ejercicio23.ts), [26](ejercicios/ejercicio26.ts), [28](ejercicios/ejercicio28.ts), [29](ejercicios/ejercicio29.ts), [30](ejercicios/ejercicio30.ts), [31](ejercicios/ejercicio31.ts), [32](ejercicios/ejercicio32.ts), [33](ejercicios/ejercicio33.ts)
 
-**Objetos y manipulación de datos:** 34, 35, 36, 37, 38, 41, 43, 44, 45, 46, 47, 56, 59, 68
+**Objetos y manipulación de datos:** [34](ejercicios/ejercicio34.ts), [35](ejercicios/ejercicio35.ts), [36](ejercicios/ejercicio36.ts), [37](ejercicios/ejercicio37.ts), [38](ejercicios/ejercicio38.ts), [41](ejercicios/ejercicio41.ts), [43](ejercicios/ejercicio43.ts), [44](ejercicios/ejercicio44.ts), [45](ejercicios/ejercicio45.ts), [46](ejercicios/ejercicio46.ts), [47](ejercicios/ejercicio47.ts), [56](ejercicios/ejercicio56.ts), [59](ejercicios/ejercicio59.ts), [68](ejercicios/ejercicio68.ts)
 
-**Fechas y formato:** 47
+**Fechas y formato:** [47](ejercicios/ejercicio47.ts)
 
-**Validación / Sanitización:** 24, 38, 48, 50, 70, 80
+**Validación / Sanitización:** [24](ejercicios/ejercicio24.ts), [38](ejercicios/ejercicio38.ts), [48](ejercicios/ejercicio48.ts), [50](ejercicios/ejercicio50.ts), [70](ejercicios/ejercicio70.ts), [80](ejercicios/ejercicio80.ts)
 
-**Funciones y parámetros avanzados:** 18, 19, 33, 34, 51, 52, 53, 58, 62, 63, 77
+**Funciones y parámetros avanzados:** [18](ejercicios/ejercicio18.ts), [19](ejercicios/ejercicio19.ts), [33](ejercicios/ejercicio33.ts), [34](ejercicios/ejercicio34.ts), [51](ejercicios/ejercicio51.ts), [52](ejercicios/ejercicio52.ts), [53](ejercicios/ejercicio53.ts), [58](ejercicios/ejercicio58.ts), [62](ejercicios/ejercicio62.ts), [63](ejercicios/ejercicio63.ts), [77](ejercicios/ejercicio77.ts)
 
-**Type Guards y Narrowing:** 54, 55, 57, 69, 70, 79
+**Type Guards y Narrowing:** [54](ejercicios/ejercicio54.ts), [55](ejercicios/ejercicio55.ts), [57](ejercicios/ejercicio57.ts), [69](ejercicios/ejercicio69.ts), [70](ejercicios/ejercicio70.ts), [79](ejercicios/ejercicio79.ts)
 
-**Genéricos esenciales:** 51, 52, 53, 56, 59, 61, 62, 63
+**Genéricos esenciales:** [51](ejercicios/ejercicio51.ts), [52](ejercicios/ejercicio52.ts), [53](ejercicios/ejercicio53.ts), [56](ejercicios/ejercicio56.ts), [59](ejercicios/ejercicio59.ts), [61](ejercicios/ejercicio61.ts), [62](ejercicios/ejercicio62.ts), [63](ejercicios/ejercicio63.ts)
 
-**Mapped / Utility / Transformación de tipos:** 59, 64, 65, 66, 67, 75, 76, 80
+**Mapped / Utility / Transformación de tipos:** [59](ejercicios/ejercicio59.ts), [64](ejercicios/ejercicio64.ts), [65](ejercicios/ejercicio65.ts), [66](ejercicios/ejercicio66.ts), [67](ejercicios/ejercicio67.ts), [75](ejercicios/ejercicio75.ts), [76](ejercicios/ejercicio76.ts), [80](ejercicios/ejercicio80.ts)
 
-**Inferencia avanzada (infer):** 64, 65, 66, 67, 75, 76, 79, 80
+**Inferencia avanzada (infer):** [64](ejercicios/ejercicio64.ts), [65](ejercicios/ejercicio65.ts), [66](ejercicios/ejercicio66.ts), [67](ejercicios/ejercicio67.ts), [75](ejercicios/ejercicio75.ts), [76](ejercicios/ejercicio76.ts), [79](ejercicios/ejercicio79.ts), [80](ejercicios/ejercicio80.ts)
 
-**Patrones de diseño / estructurales:** 61 (EventEmitter), 63 (compose), 68 (Builder), 77 (pipeline async), 78 (memoize)
+**Patrones de diseño / estructurales:** [61](ejercicios/ejercicio61.ts) (EventEmitter), [63](ejercicios/ejercicio63.ts) (compose), [68](ejercicios/ejercicio68.ts) (Builder), [77](ejercicios/ejercicio77.ts) (pipeline async), [78](ejercicios/ejercicio78.ts) (memoize)
 
-**Asincronía / Promesas:** 71, 72, 73, 74, 75, 77, 78
+**Asincronía / Promesas:** [71](ejercicios/ejercicio71.ts), [72](ejercicios/ejercicio72.ts), [73](ejercicios/ejercicio73.ts), [74](ejercicios/ejercicio74.ts), [75](ejercicios/ejercicio75.ts), [77](ejercicios/ejercicio77.ts), [78](ejercicios/ejercicio78.ts)
 
-**Optimización y caching:** 71 (manejo error), 73 (reintentos), 74 (timeout), 78 (memoization TTL)
+**Optimización y caching:** [71](ejercicios/ejercicio71.ts) (manejo error), [73](ejercicios/ejercicio73.ts) (reintentos), [74](ejercicios/ejercicio74.ts) (timeout), [78](ejercicios/ejercicio78.ts) (memoization TTL)
 
-**Uniones discriminadas:** 54, 57, 69 (branded), 70 (guard complejo), 79
+**Uniones discriminadas:** [54](ejercicios/ejercicio54.ts), [57](ejercicios/ejercicio57.ts), [69](ejercicios/ejercicio69.ts) (branded), [70](ejercicios/ejercicio70.ts) (guard complejo), [79](ejercicios/ejercicio79.ts)
 
-**Mini DSL / Validadores:** 80
+**Mini DSL / Validadores:** [80](ejercicios/ejercicio80.ts)
 
 ## Lista de ejercicios
 
