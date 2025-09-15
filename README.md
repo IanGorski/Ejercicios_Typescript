@@ -2,6 +2,8 @@
 
 Este repositorio contiene ejercicios prácticos de TypeScript organizados por nivel de dificultad (ahora del 2 al 10). Cada archivo incluye la consigna, la solución y una explicación sencilla pensada para quienes están aprendiendo como yo. Fui expandiendo progresivamente los conceptos: fundamentos, colecciones, funciones, objetos, luego genéricos, tipos condicionales, utilidades avanzadas, patrones y asincronía.
 
+> Nota: Los ejercicios 41–80 introducen una progresión hacia temas avanzados: primero consolidación de arrays y manipulación (41–50), luego genéricos, unions y type predicates (51–60), patrones y utilidades profundas (61–70) y finalmente asincronía, tipos condicionales e inferencias complejas (71–80).
+
 ## Niveles
 ## Índice por temas
 
